@@ -1,5 +1,5 @@
-input=name("what is your name")
-input=age("how old are you")
+input=name("What is your name?")
+input=age("How old are you")
 
-print("my name is",name)
-print("I am,age,years old")
+print("My name is",name)
+print("I am",age,"years old")
