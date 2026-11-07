@@ -1,4 +1,5 @@
 input=name("what is your name")
 input=age("how old are you")
 
-print(name)
+print("my name is",name)
+print("I am,age,years old")
