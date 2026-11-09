@@ -1,4 +1,5 @@
-age=57
-name="byron"
-print(age)
-print(name)
+marks=int(input("what did you get"))
+ if marks>=50:
+  print("passed")
+else:
+  print("failled")
